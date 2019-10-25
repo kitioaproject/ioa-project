@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6c6b775ef2912a345a4e13050148b16f
+guid: b847fcc39a4b2f14390c7b4177f933a5
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
@@ -34,17 +34,17 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.05
+    globalScale: 0.027
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importVisibility: 0
+    importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -81,7 +81,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.05
+    globalScale: 0.027
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
